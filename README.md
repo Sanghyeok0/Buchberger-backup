@@ -1,7 +1,7 @@
 # Buchberger Algorithm Formalization
 
-[![GitHub CI](https://github.com/Sanghyeok0/Buchberger/actions/workflows/push.yml/badge.svg)](https://github.com/Sanghyeok0/Buchberger/actions/workflows/push.yml)
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Sanghyeok0/Buchberger)
+[![GitHub CI](https://github.com/Sanghyeok0/Buchberger-backup/actions/workflows/push.yml/badge.svg)](https://github.com/Sanghyeok0/Buchberger-backup/actions/workflows/push.yml)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Sanghyeok0/Buchberger-backup)
 
 This repository contains a Lean 4 formalization of **Buchberger's Algorithm** for computing **Gröbner bases** in polynomial rings. Gröbner bases, introduced by **Bruno Buchberger in 1965**, are a fundamental tool in computational algebra, providing a systematic way to solve polynomial systems.
 
@@ -11,9 +11,9 @@ This project is based on **Lean 4** and **Mathlib**, and aims to **rigorously fo
 
 ## 📖 Documentation
 
-- **Blueprint of the proof**: [📚 Buchberger Blueprint](https://sanghyeok0.github.io/Buchberger/blueprint/)
-- **Documentation of the methods**: [📜 Lean API Docs](https://sanghyeok0.github.io/Buchberger/docs/)
-- **GitHub Repository**: [🔗 GitHub](https://github.com/Sanghyeok0/Buchberger)
+- **Blueprint of the proof**: [📚 Buchberger Blueprint](https://sanghyeok0.github.io/Buchberger-backup/blueprint/)
+- **Documentation of the methods**: [📜 Lean API Docs](https://sanghyeok0.github.io/Buchberger-backup/docs/)
+- **GitHub Repository**: [🔗 GitHub](https://github.com/Sanghyeok0/Buchberger-backup)
 - **Discussion on Zulip**: [💬 Zulip Chat](https://leanprover.zulipchat.com/)
 
 ---
